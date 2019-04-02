@@ -1,0 +1,33 @@
+# Decouverte-du-metier-Data-Analyst
+
+Dans cet espace, vous retrouverez tous les projets réalisés dans le cadre de ma formation au parcours "Data Analyst". 
+Mis en place par l'entreprise Dataquest, ce parcours en ligne nous forme à travers des exercices et des projets liés au métier de Data Analyst. 
+Intense (>250h de cours et d'exercices), ce cours est segmenté en 17 chapitres regroupés et résumés ci-dessous : 
+
+1) Python : Fondamentaux à un niveau intermédiaire 
+2) Numpy & Pandas (en particulier une introduction au nettoyage des données)
+3) Visualisation des données
+4) Nettoyage des données
+5) Command Line (pardonnez l'utilisation de l'anglais, mais c'est plus court et agréable à lire que " Interface en ligne de commande" :) )
+6) Github 
+7) SQL : Débutant à un niveau avancé
+8) API
+9) Statistique : Débutant à intermédiaire 
+
+Etat d'avancement dans la formation à la date du 2 avril : Dans la semaine, je réaliserai le 3ème projet guidé qui me permettra de valider le deuxième chapitre, et d'entamer le troisième à savoir "Visualisation des données"
+
+Pour satisfaire votre impatience ou du moins vous démonter mon sérieux, cela dépendra de votre enthousiasme à la lecture de mon CV vous trouverez les 2 premiers projets réalisés durant la formation. La formation étant composée de 17 chapitres, à la fin de celle-ci vous trouverez 17 projets sur mon Github. 
+
+Exemple de notation : "1-Python_fondamentaux"
+
+1 = Premier projet
+Python_fondamentaux = Thème du chapitre 
+
+Les résultats des projets sont à nuancer. En effet ce sont des projets guidés. Bien qu'il n'y ait pas de corrections nous sommes aiguillés par Dataquest sur la méthode à appliquer, et l'orientation que prend notre projet. Ainsi, il peut être demandé de se focaliser sur les applications gratuites dans le premier projet, ou les taxis se rendant à untel aéroport. La conclusion du projet n'est donc pas personnelle, à l'inverse du processus pour y arriver. Si j'ai le temps je reviendrais sur chaque projet pour creuser l'analyse, afin de la rendre plus précise et que les projets menés retranscrivent ma propre réflexion du début jusqu'à la fin. 
+
+Néanmoins prenez ces projets comme ils le sont, un preuve des compétences que j'ai acquises et de ma motivation à apprendre pour intégrer le milieu de la Data Science. 
+
+À plus long terme (c'est à dire dans 6 mois, à la fin de ce parcours) j'envisage de : 
+- Continuer mon apprentissage en débutant le parcours lié au métier de "Data Scientist"
+- Faire mes preuves sur des compétitions Kaggle, en particulier résoudre le célèbre défi du Titanic (https://www.kaggle.com/c/titanic). Parfait pour des débutants en Data Science, il s'agit de prédire quels types de passager avaient le plus de chance de survivre à la catastrophe. 
+- Allier Data Science et sémantique pour expliquer les choix de paroles d'un artiste, thèmes dominants afin de trouver des cohérences entre choix artistiques, vie privée de l'artiste et monde extérieur pour tenter de prédire le prochain album. Cette idée m'est venue après avoir découvert une étude semblable sur Taylor Swift, j'aimerais transposer cette étude à un genre musical que affectionne : le rap. 
