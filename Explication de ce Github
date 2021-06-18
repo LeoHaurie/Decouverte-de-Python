@@ -1,14 +1,14 @@
 # Decouverte-du-metier-Data-Analyst
 
-Dans cet espace, vous retrouverez tous les projets réalisés dans le cadre de ma formation au parcours "Data Analyst". 
+Dans cet espace, vous retrouverez tous les projets réalisés dans le cadre de ma formation au parcours "Data Scientist". 
 Mis en place par l'entreprise Dataquest, ce parcours en ligne nous forme à travers des exercices et des projets liés au métier de Data Analyst. 
-Intense (>250h de cours et d'exercices), ce cours est segmenté en 17 chapitres regroupés et résumés ci-dessous : 
+Intense (>250h de cours et d'exercices), ce cours est segmenté en 9 thèmes, eux aussi segmentés en  chapitres (regroupant une dizaine de cours et d'exercices). Voici les thèmes du programme : 
 
-1) Python : Fondamentaux à un niveau intermédiaire 
-2) Numpy & Pandas (en particulier une introduction au nettoyage des données)
-3) Visualisation des données
-4) Nettoyage des données
-5) Command Line (pardonnez l'utilisation de l'anglais, mais c'est plus court et agréable à lire que " Interface en ligne de commande" :) )
+1) Python : Fondamentaux à un niveau intermédiaire (2 chapites)
+2) Analyse de données (Pandas et NumPy) et visualisation de données (3 chapitres)
+3) Nettoyage des donnée (3 chapitres)
+4) Command Line (2 chapitres)
+5) Travailler avec les bases de données, à savoir SQL et API (4 chapitres)
 6) Github 
 7) SQL : Débutant à un niveau avancé
 8) API
