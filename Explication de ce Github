@@ -1,22 +1,22 @@
 # Decouverte-du-metier-Data-Analyst
 
 Dans cet espace, vous retrouverez tous les projets réalisés dans le cadre de ma formation au parcours "Data Scientist". 
-Mis en place par l'entreprise Dataquest, ce parcours en ligne nous forme à travers des exercices et des projets liés au métier de Data Analyst. 
-Intense (>250h de cours et d'exercices), ce cours est segmenté en 9 thèmes, eux aussi segmentés en  chapitres (regroupant une dizaine de cours et d'exercices). Voici les thèmes du programme : 
+Mis en place par l'entreprise Dataquest, ce parcours en ligne nous forme à travers des exercices et des projets liés au métier de Data Scientist. 
+Ce cours est segmenté en 9 thèmes, eux aussi segmentés en chapitres (regroupant une dizaine de cours et d'exercices). Voici les thèmes du programme : 
 
-1) Python : Fondamentaux à un niveau intermédiaire (2 chapites)
-2) Analyse de données (Pandas et NumPy) et visualisation de données (3 chapitres)
-3) Nettoyage des donnée (3 chapitres)
+1) Python : Des fondamentaux à un niveau intermédiaire (2 chapites)
+2) Analyse de données (Pandas et NumPy débutant à intermédiaire) et visualisation de données (3 chapitres)
+3) Nettoyage des données (3 chapitres)
 4) Command Line (2 chapitres)
-5) Travailler avec les bases de données, à savoir SQL et API (4 chapitres)
-6) Github 
-7) SQL : Débutant à un niveau avancé
-8) API
-9) Statistique : Débutant à intermédiaire 
+5) Travailler avec les bases de données, à savoir SQL et API débutant à intermédiaire (4 chapitres)
+6) Probabilité et Statistique (5 chapitres)
+7) Machine Learning Introduction (6 chapitres)
+8) Machine Learning Intermédiaire (3 chapitres)
+9) Sujets avancés (Command Line, fonctions, Spark, Git...) (4 chapitres)
 
-Etat d'avancement dans la formation à la date du 27 mars 2020 : Etant en alternance, je n'ai pas eu le temps de m'y plonger à nouveau depuis septembre 2019 mais je souhaite reprendre l'apprentissage en septembre 2020
+Etat d'avancement dans la formation à la date du 18 juin 2021 : Chapitre 2 : Découverte de NumPy et Pandas et maitrise de SQL 
 
-Pour satisfaire votre impatience ou du moins vous démontrer mon sérieux cela dépendra de votre enthousiasme à la lecture de mon CV, vous trouverez les 2 premiers projets réalisés durant la formation. La formation étant composée de 17 chapitres, à la fin de celle-ci vous trouverez 17 projets sur mon Github. 
+Vous trouverez sur ce Github les 2 premiers projets réalisés durant la formation. À chaque fin de chapitre, un projet d'analyse en autonomie est proposé, avec des problématiques et consignes pour nous orienter. La formation étant composée de 32 chapitres, à la fin de celle-ci vous trouverez 32 projets sur mon Github. 
 
 Exemple de notation : "1-Python_fondamentaux"
 
@@ -25,9 +25,6 @@ Python_fondamentaux = Thème du chapitre
 
 Les résultats des projets sont à nuancer. En effet ce sont des projets guidés. Bien qu'il n'y ait pas de corrections nous sommes aiguillés par Dataquest sur la méthode à appliquer, et l'orientation que prend notre projet. Ainsi, il peut être demandé de se focaliser sur les applications gratuites dans le premier projet, ou les taxis se rendant à untel aéroport. La conclusion du projet n'est donc pas personnelle, à l'inverse du processus pour y arriver. Si j'ai le temps je reviendrais sur chaque projet pour creuser l'analyse, afin de la rendre plus précise et que les projets menés retranscrivent ma propre réflexion du début jusqu'à la fin. 
 
-Néanmoins prenez ces projets comme ils le sont, un preuve des compétences que j'ai acquises et de ma motivation à apprendre pour intégrer le milieu de la Data Science. 
-
-À plus long terme (c'est à dire à la fin de mon alternance)j'envisage de : 
-- Finaliser mon apprentissage du parcours "Data Analyst" et débuter le parcours lié au métier de "Data Scientist"
+À plus long terme j'envisage de : 
 - Faire mes preuves sur des compétitions Kaggle, en particulier résoudre le célèbre défi du Titanic (https://www.kaggle.com/c/titanic). Parfait pour des débutants en Data Science, il s'agit de prédire quels types de passager avaient le plus de chance de survivre à la catastrophe. 
-- Allier Data Science et sémantique pour expliquer les choix de paroles d'un artiste, thèmes dominants afin de trouver des cohérences entre choix artistiques, vie privée de l'artiste et monde extérieur pour tenter de prédire le prochain album. Cette idée m'est venue après avoir découvert une étude semblable sur Taylor Swift, j'aimerais transposer cette étude à un genre musical que affectionne : le rap. 
+- Allier Data Science et sémantique pour expliquer les choix de paroles d'un artiste ou les thèmes dominants afin de trouver des cohérences entre choix artistiques, vie privée de l'artiste et monde extérieur pour tenter de prédire le prochain album. Cette idée m'est venue après avoir découvert une étude semblable sur Taylor Swift, j'aimerais transposer cette étude à un genre musical que j'affectionne : le rap. 
